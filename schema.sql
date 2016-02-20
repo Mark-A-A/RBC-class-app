@@ -1,0 +1,1 @@
+CREATE DATABASE rbc_class_db;
